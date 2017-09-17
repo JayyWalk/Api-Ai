@@ -1,0 +1,6 @@
+var accessToken = "4c214222222844f9bed104e86782c633"
+	baseUrl = "http://api.api.ai/v1/"
+	$speechInput,
+	$recBtn,
+	recognition
+	mess
